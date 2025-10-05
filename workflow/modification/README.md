@@ -1,17 +1,19 @@
 # Instruction
 1. understand constraints 
-- `instructive.md`
-- `complexity.md`
-- `structure.md`
+- `instructive/README.md`
+- `complexity/README.md`
+- `structure/README.md`
+- `nonrepetition/README.md`
 2. select a task:
 - enrich one instruction by making a md.
 - clarify one instruction by changing the words. 
 - improve a combination of instructions. 
 3. do the task.
 4. check constraints.
-- `instructive.md`
-- `complexity.md`
-- `structure.md`
+- `instructive/README.md`
+- `complexity/README.md`
+- `structure/README.md`
+- `nonrepetition/README.md`
 
 # Motivation
 1. meta-develop means develop to develop.
