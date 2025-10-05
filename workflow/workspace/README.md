@@ -12,8 +12,16 @@
 # MOTIVATION
 A separate workspace folder enables clean separation between meta-development as a function (the process) and meta-development as an argument (the content being developed). This isolation prevents interference with the main workflow during development and allows for safe experimentation.
 
-# LONG-TERM TARGET
-**Git-Based Workspace Technique**
-- Target: Replace manual folder approach with git-based workflow
-- Technique: Clone project temporarily into local subfolder, use commits/diffs for review, cherry-pick for integration
-- Allow remoted or local merge (subfolder MR -> local pull + subfolder pull).
+# IMPROVEMENT ROADMAP
+
+## Git-Based Workspace Workflow
+**Current State**: Manual folder-based workspace approach with direct file copying
+**Target State**: Git-based workflow using diffs instead of copying, automated review with git diff, selective integration with git cherry-pick
+**Steps**: 
+- [ ] Research git clone workflow patterns for temporary workspaces
+- [ ] Design git diff-based review process
+- [ ] Implement git cherry-pick for selective integration
+- [ ] Test git workflow with existing modification process
+- [ ] Update workspace instructions to reference git workflow
+**Constraints**: Maintain instructive format, follow complexity constraints, backward compatibility, support remote/local merge
+**Progress**: Not Started

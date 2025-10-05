@@ -7,7 +7,9 @@
 2. select a task:
 - enrich one instruction by making a md.
 - clarify one instruction by changing the words. 
-- improve a combination of instructions. 
+- improve a combination of instructions.
+- manage improvement roadmap by creating, updating, or completing improvement plans.
+- implement improvements by working on roadmap steps and updating progress.
 3. do the task.
 4. check constraints.
 - `instructive/README.md`
