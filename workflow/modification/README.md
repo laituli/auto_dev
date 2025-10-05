@@ -1,4 +1,4 @@
-# Instruction
+# INSTRUCTION
 1. understand constraints 
 - `instructive/README.md`
 - `complexity/README.md`

@@ -1,4 +1,4 @@
-# Instruction
+# INSTRUCTION
 1. check every file contains `INSTRUCTION` section.
 2. check `INSTRUCTION` is step by step instructive.
 

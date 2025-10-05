@@ -1,4 +1,4 @@
-# Instruction
+# INSTRUCTION
 1. check `INSTRUCTION` section is not defining subworkflow that it calls.
 2. check if the subworkflows should not be merged.
 
