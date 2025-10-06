@@ -43,4 +43,4 @@ Thumbs.db
 *.temp
 
 # auto_dev 
-./dev
+dev
