@@ -1,6 +1,6 @@
 # INSTRUCTION
-1. Execute `setup/README.md` to initialize development environment
-2. Execute `workspace/README.md` to create modification workspace
+1. Execute `setup/README.md`
+2. Execute `workspace/README.md`
 
 ## MOTIVATION
 Build a meta workflow for developing development processes
