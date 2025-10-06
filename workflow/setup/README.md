@@ -7,3 +7,4 @@
 3. Verify .gitignore file exists
    - Create basic .gitignore if missing
    - Include venv/, __pycache__/, .vscode/, .idea/
+4. Execute `workspace/README.md` with 'setup' argument
